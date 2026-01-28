@@ -47,7 +47,7 @@ To run this EDA locally or in a Colab environment:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <url>
+    git clone <https://github.com/Swastik0407/eda-projects/blob/main/Sales.ipynb>
     cd <eda-projects>
     ```
 2.  **Open in Google Colab:** Upload the `.ipynb` file to Google Colab, or open it directly if you're viewing it on GitHub with Colab integration.
