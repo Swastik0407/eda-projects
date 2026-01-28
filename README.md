@@ -47,8 +47,8 @@ To run this EDA locally or in a Colab environment:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone <url>
+    cd <eda-projects>
     ```
 2.  **Open in Google Colab:** Upload the `.ipynb` file to Google Colab, or open it directly if you're viewing it on GitHub with Colab integration.
 3.  **Upload Data Files:** The notebook expects the data files (`revenue_per_product.csv`, `revenue_per_customer.csv`, `categorywise performance.csv`, `orderTrend_monthly.csv`) to be uploaded. Run the `files.upload()` cells to upload them.
